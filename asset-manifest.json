@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/useContext-hook/static/css/main.9f706d43.css",
+    "main.js": "/useContext-hook/static/js/main.39292a8f.js",
+    "static/js/568.e8c8f056.chunk.js": "/useContext-hook/static/js/568.e8c8f056.chunk.js",
+    "static/js/400.908fd60c.chunk.js": "/useContext-hook/static/js/400.908fd60c.chunk.js",
+    "static/js/218.a0f8e126.chunk.js": "/useContext-hook/static/js/218.a0f8e126.chunk.js",
+    "static/js/787.08208e1e.chunk.js": "/useContext-hook/static/js/787.08208e1e.chunk.js",
+    "index.html": "/useContext-hook/index.html",
+    "main.9f706d43.css.map": "/useContext-hook/static/css/main.9f706d43.css.map",
+    "main.39292a8f.js.map": "/useContext-hook/static/js/main.39292a8f.js.map",
+    "568.e8c8f056.chunk.js.map": "/useContext-hook/static/js/568.e8c8f056.chunk.js.map",
+    "400.908fd60c.chunk.js.map": "/useContext-hook/static/js/400.908fd60c.chunk.js.map",
+    "218.a0f8e126.chunk.js.map": "/useContext-hook/static/js/218.a0f8e126.chunk.js.map",
+    "787.08208e1e.chunk.js.map": "/useContext-hook/static/js/787.08208e1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f706d43.css",
+    "static/js/main.39292a8f.js"
+  ]
+}
